@@ -27,4 +27,6 @@
         
     ?>
     <button type="button" class="btn btn-warning">CLICK ME!</button>
+    <button type="button" class="btn btn-success">CLICK ME!</button>
+    <button type="button" class="btn btn-primary">CLICK ME!</button>
     <?php require'includes/footer.php'; ?>
