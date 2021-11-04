@@ -11,7 +11,7 @@
 <body>
     <div class="container">
     <h2>Follow each link to the page example</h2>
-    <ul class="nav nav-pills">
+    <ul class="nav">
         <li class="nav-item"><a class="nav-link" href="#" href="index.php">Home</a></li>
         <li class="nav-item"><a class="nav-link" href="#" href="ifstatement.php">simple if statement</a></li>
         <li class="nav-item"><a class="nav-link" href="#" href="switchstatement.php">simple switch statement</a></li>
