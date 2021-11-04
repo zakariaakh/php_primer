@@ -11,15 +11,15 @@
 <body>
     <div class="container">
     <h2>Follow each link to the page example</h2>
-    <ul class="nav">
-        <li class="nav-item"><a class="nav-link" href="#" href="index.php">Home</a></li>
-        <li class="nav-item"><a class="nav-link" href="#" href="ifstatement.php">simple if statement</a></li>
-        <li class="nav-item"><a class="nav-link" href="#" href="switchstatement.php">simple switch statement</a></li>
-        <li class="nav-item"><a class="nav-link" href="#" href="forloop.php">Simple For Loop</a></li>
-        <li class="nav-item"><a class="nav-link" href="#" href="whiledowhileloop.php">Simple while do while loop </a></li>
-        <li class="nav-item"><a class="nav-link" href="#" href="array.php">Simple php array </a></li>
-        <li class="nav-item"><a class="nav-link" href="#" href="stringmanip.php">String Manipulation </a></li>
-        <li class="nav-item"><a class="nav-link" href="#" href="datetime.php">Date and Time Manipulation </a></li>
-        <li class="nav-item"><a class="nav-link" href="#" href="functions.php">Functions Manipulation </a></li>
+    <ul class="nav nav-pills">
+        <li class="nav-item"><a class="nav-link"  href="index.php">Home</a></li>
+        <li class="nav-item"><a class="nav-link"  href="ifstatement.php">simple if statement</a></li>
+        <li class="nav-item"><a class="nav-link"  href="switchstatement.php">simple switch statement</a></li>
+        <li class="nav-item"><a class="nav-link"  href="forloop.php">Simple For Loop</a></li>
+        <li class="nav-item"><a class="nav-link"  href="whiledowhileloop.php">Simple while do while loop </a></li>
+        <li class="nav-item"><a class="nav-link"  href="array.php">Simple php array </a></li>
+        <li class="nav-item"><a class="nav-link"  href="stringmanip.php">String Manipulation </a></li>
+        <li class="nav-item"><a class="nav-link"  href="datetime.php">Date and Time Manipulation </a></li>
+        <li class="nav-item"><a class="nav-link"  href="functions.php">Functions Manipulation </a></li>
     </ul>
     
