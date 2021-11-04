@@ -29,5 +29,5 @@
     <button type="button" class="btn btn-warning">CLICK ME!</button>
     <button type="button" class="btn btn-success">CLICK ME!</button>
     <button type="button" class="btn btn-primary">CLICK ME!</button>
-    <a href="https://www.heroko.com" type="button" class="btn btn-danger >Heroko.com</a>
+    <a href="https://www.heroku.com" class="btn btn-danger" >Heroku.com</a>
     <?php require'includes/footer.php'; ?>
